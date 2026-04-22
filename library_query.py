@@ -36,7 +36,9 @@ def main():
     books_collection = db[collection_name]
 
     # 4. Ορισμός και Εκτέλεση του ερωτήματος (Query)
-    query = { "available_copies": { "$gte": 5 } }
+    query = { "available_copies": { "$gte": 5 } } #$gte = Greater Than or Equal
+    #{"author": "George Orwell" }
+    #{ "available_copies": { "$gte": 5 } }
     
     print("Αναζήτηση για βιβλία με 5 ή περισσότερα αντίτυπα...\n")
     print("-" * 50)
