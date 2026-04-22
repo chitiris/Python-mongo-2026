@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Νίκος",
+    "last_name": "Καζαντζάκης",
+    "email": "nikos@unilib.gr",
+    "address": {"street": "Κνωσού 5", "city": "Ηράκλειο", "zipcode": "71306"},
+    "active_member": true,
+    "borrowed_books": []
+  },
+  {
+    "first_name": "Ελένη",
+    "last_name": "Αρβελέρ",
+    "email": "eleni@unilib.gr",
+    "address": {"street": "Ακαδημίας 28", "city": "Αθήνα", "zipcode": "10672"},
+    "active_member": true,
+    "borrowed_books": []
+  },
+  {
+    "first_name": "Κωνσταντίνος",
+    "last_name": "Καβάφης",
+    "email": "kavafis@unilib.gr",
+    "address": {"street": "Λεπσίου 10", "city": "Αλεξάνδρεια", "zipcode": "21511"},
+    "active_member": false,
+    "borrowed_books": []
+  }
+]

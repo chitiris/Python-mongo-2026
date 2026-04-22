@@ -1,0 +1,22 @@
+[
+  {"title": "1984", "author": "George Orwell", "published_year": 1949, "genres": ["Dystopian", "Political Fiction"], "available_copies": 3},
+  {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "published_year": 1925, "genres": ["Classic", "Novel"], "available_copies": 2},
+  {"title": "A Brief History of Time", "author": "Stephen Hawking", "published_year": 1988, "genres": ["Science", "Physics"], "available_copies": 5},
+  {"title": "Clean Code", "author": "Robert C. Martin", "published_year": 2008, "genres": ["Technology", "Programming"], "available_copies": 4},
+  {"title": "The Hobbit", "author": "J.R.R. Tolkien", "published_year": 1937, "genres": ["Fantasy", "Adventure"], "available_copies": 6},
+  {"title": "To Axion Esti", "author": "Odysseas Elytis", "published_year": 1959, "genres": ["Poetry", "Greek Literature"], "available_copies": 1},
+  {"title": "Introduction to Algorithms", "author": "Thomas H. Cormen", "published_year": 1990, "genres": ["Technology", "Computer Science"], "available_copies": 2},
+  {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "published_year": 1951, "genres": ["Fiction", "Classic"], "available_copies": 3},
+  {"title": "Sapiens", "author": "Yuval Noah Harari", "published_year": 2011, "genres": ["History", "Anthropology"], "available_copies": 8},
+  {"title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "published_year": 1866, "genres": ["Philosophical Novel", "Classic"], "available_copies": 2},
+  {"title": "The Odyssey", "author": "Homer", "published_year": -800, "genres": ["Epic Poetry", "Classic"], "available_copies": 4},
+  {"title": "Brave New World", "author": "Aldous Huxley", "published_year": 1932, "genres": ["Dystopian", "Science Fiction"], "available_copies": 3},
+  {"title": "Thinking, Fast and Slow", "author": "Daniel Kahneman", "published_year": 2011, "genres": ["Psychology", "Economics"], "available_copies": 5},
+  {"title": "Cosmos", "author": "Carl Sagan", "published_year": 1980, "genres": ["Science", "Astronomy"], "available_copies": 4},
+  {"title": "The Alchemist", "author": "Paulo Coelho", "published_year": 1988, "genres": ["Fantasy", "Adventure"], "available_copies": 10},
+  {"title": "The Selfish Gene", "author": "Richard Dawkins", "published_year": 1976, "genres": ["Science", "Biology"], "available_copies": 3},
+  {"title": "Meditations", "author": "Marcus Aurelius", "published_year": 180, "genres": ["Philosophy", "Stoicism"], "available_copies": 6},
+  {"title": "Pride and Prejudice", "author": "Jane Austen", "published_year": 1813, "genres": ["Romance", "Classic"], "available_copies": 2},
+  {"title": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "published_year": 1967, "genres": ["Magic Realism", "Classic"], "available_copies": 3},
+  {"title": "The Art of Computer Programming", "author": "Donald Knuth", "published_year": 1968, "genres": ["Technology", "Computer Science"], "available_copies": 1}
+]
